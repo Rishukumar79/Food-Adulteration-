@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍎 PureCheck - Food Adulteration Detection
+# 🍎 Suddhi Bodha - Food Adulteration Detection
 
 **AI-Powered Food Safety Analysis | Instant Detection | Home Testing Methods**
 
