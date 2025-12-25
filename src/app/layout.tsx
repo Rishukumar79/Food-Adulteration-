@@ -5,7 +5,7 @@ import { Footer } from '@/components/footer';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'PureCheck - Food Adulteration Detection',
+  title: 'Suddhi Bodha - Food Adulteration Detection',
   description: 'Detect food adulteration with AI-powered image analysis and manual tests.',
   manifest: "/manifest.json",
 };
