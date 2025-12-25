@@ -8,7 +8,7 @@ export function Header() {
       <div className="container mx-auto flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <Leaf className="w-6 h-6 text-primary" />
-          <span className="text-xl font-bold font-headline text-foreground">PureCheck</span>
+          <span className="text-xl font-bold font-headline text-foreground">Suddhi Bodha</span>
         </Link>
         <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
           <Link href="/#categories" className="text-muted-foreground hover:text-foreground transition-colors">
